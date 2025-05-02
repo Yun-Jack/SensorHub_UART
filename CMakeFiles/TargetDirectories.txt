@@ -1,0 +1,3 @@
+/home/yunxiao/Desktop/SensorHub_UART/CMakeFiles/SensorHub_UART.dir
+/home/yunxiao/Desktop/SensorHub_UART/CMakeFiles/edit_cache.dir
+/home/yunxiao/Desktop/SensorHub_UART/CMakeFiles/rebuild_cache.dir

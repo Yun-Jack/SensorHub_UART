@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SensorHub_UART.dir/main.cpp.o CMakeFiles/SensorHub_UART.dir/src/OTA.cpp.o CMakeFiles/SensorHub_UART.dir/src/frame.cpp.o CMakeFiles/SensorHub_UART.dir/src/msg_manager.cpp.o -o SensorHub_UART
