@@ -9,7 +9,7 @@
 
 int main() {
     OTA_init("/dev/tty24", B115200);
-    std::ifstream file("/home/yunxiao/Desktop/Sensorhub_UART/firmware/APP.bin", std::ios::binary);
+    std::ifstream file("/home/yunxiao/Desktop/SensorHub_UART/firmware/APP.bin", std::ios::binary);
     if (!file.is_open()) {
         std::cerr << "无法打开文件" << std::endl;
         return 1;
